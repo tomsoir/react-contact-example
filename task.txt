@@ -1,0 +1,12 @@
+Create a simple React application that manages contacts. The application should be able to: 
+- list all contacts 
+- add a contact 
+- edit a contact 
+- delete a contact 
+Contacts have a First Name, Last Name, Phone number, Address, Email 
+Users should be able to sort or filter the list of contacts based on any field. 
+For the sake of simplicity, the contact list does not need to persist between application reloads.
+
+Apart from React which is required, you may use any tech stack you like. Please explain your choice of tools/frameworks/libraries in the README file of your project. 
+Feel free to take as much or as little time as you see fit for this assignment. It would be nice if you could provide us with a rough development timeline, though. 
+Once you are finished, please zip your solution and email it back to us 
